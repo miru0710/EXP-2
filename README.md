@@ -55,9 +55,11 @@ Model graph:
 Calculation: 
 
 Open circuit characteristics
+<img width="1232" height="818" alt="Screenshot 2026-03-24 182219" src="https://github.com/user-attachments/assets/d1659372-911d-4fd3-be1a-a95ee7f70203" />
 
   
-Load Characteristics:
+Load Characteristics:<img width="1872" height="942" alt="Screenshot 2026-02-23 133215" src="https://github.com/user-attachments/assets/e362833b-0c61-49d2-88f7-95d6e94e7bb6" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
